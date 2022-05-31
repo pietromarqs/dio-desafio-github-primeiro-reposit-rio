@@ -1,0 +1,15 @@
+cd "filename" 		- segue para pasta indicada
+cd ..  			- volta à pasta anterior
+dir			- mostra os diretórios dentro da pasta local
+mkdir 			- cria uma nova pasta
+del/rmdir		- delete		-
+ls 			- mostra os arquivos dentro da pasta
+echo "txt">"kk.txt"	- cria um arquivo de texto
+git init		- inicia o repositório do git na pasta criada
+git add	(*,.)		- mover arquivos e dar inicio ao versionamento do código
+git commit -m "txt"	- faz o commit do código no github
+
+
+## Caso aconteça erro em minha conta 
+git config --list			- lista as configurações do git e detalhes de sua conta conectada
+git config --global --unset "txt"	- Remove o item selecionado
