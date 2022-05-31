@@ -1,0 +1,34 @@
+TCP/IP - Transmission Control Protocol: Protocolo de comunicação entre computadores em rede
+ 		4 Camadas:	1-Física(ex.: placa de rede)
+				2-Rede (ex.: IP)
+				3-Trasnporte (ex.: TCP, UDP)
+				4- Aplicação (ex.: FTP, SMTP, HTTP)
+
+UDP X TCP
+
+	UDP -Rápido; Não Confiável; Carro do ovo(meio que um spam); Livestream
+	TCP -Voltado à conexão; Handshake; Integridade, ordem dos dados; Aplicativo de mensagens de texto
+
+
+
+
+Portas (Ports)
+	20: FTP		(Arquivos)
+	22: SSH		(Arquivos de maneira segura e dinâmica)
+	25: SMTP	(E-mails)
+	53: DNS		(IP pra Nomes legíveis)
+	80: HTTP	(Protocolo de transferência de URL)
+	443:HTTPS	(HTTP Segura)
+
+## Roteadores, switches e modems
+
+Modem (Modulator-demodulator)- Modula e demodula sinal para que possa ser transferido entre computadores pra depois serem lidos facilmente por pessoas;
+
+Roteador- Distribui internet pra um ou mais dispositivos de uma rede
+
+Switches- Roteador "Inteligente", o que chega nele ele distribui só pro client que pediu	
+
+
+EXERCÍCIO
+1- O Gmail utiliza as portas 25(SMTP), 465(SMTP sobre SSL) ou 587 (SMTP)
+2-A porta utilizada pelo Mysql é 3306 (TCP)

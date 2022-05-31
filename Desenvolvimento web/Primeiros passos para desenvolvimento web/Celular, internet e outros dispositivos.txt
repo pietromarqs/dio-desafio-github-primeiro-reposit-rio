@@ -1,0 +1,39 @@
+# Dados móveis:
+1G	:10kbps		-Analógico	
+2G	:97kbps		-Digital
+2,5G	:32-80kbps
+EDGE	:128-236kbps
+3G	:7Mbps
+4G	:22,1Mbps
+5G	:10Gbps
+
+
+# Wi-Fi 
+IEEE 802.11: 2,4Ghz, 2 Mbps
+IEEE 802.11a:5 Ghz, 54 Mbps
+IEEE 802.11b:2,4Ghz, 11 Mbps (diminuição de interferência)
+IEEE 802.11g:2,4Ghz, 54 Mbps
+IEEE 802.11n:2,4Ghz/5Ghz, 150-600Mbps 
+
+		Segurança: WEP: chaves de 64 bits e de 128 bits
+			   WPA: chave trocada periodicamente 
+			   WPA2 (AES) (802.11i)
+				+segurança
+				+processamento
+
+# Bluetooth
+	Conexão ponto a ponto
+				Classe	Pote.Max	Alcance
+				1	100mW		100m
+				2	2,5mW		10m
+				3	1mW		1m
+
+
+
+	Versão		Taxa de transmissão
+	1.2		1Mbps
+	2.0+EDR		3Mbps
+	3.0		24Mbps
+	4.0		25Mbps
+	5.0		50Mbps
+
