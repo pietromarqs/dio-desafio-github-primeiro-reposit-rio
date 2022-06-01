@@ -1,0 +1,34 @@
+## História da Origem: Arpanet (1969) - Era uma espécie de internet que pertencia ao Departamento de Defesa dos EUA
+1987 - Liberada para o uso comercial nos EUA - no Brasil em 1994
+1992 - CERN cria a WWW - World Wide Web
+2000 - Banda Larga no Brasil
+
+##Exercícios:
+1-Qual foi o primeiro domínio criado?
+symbolics.com, em 1985, registrado gratuitamente;
+
+2-E o primeiro blog?
+Open Diary criado por Claudio Pinhanez, brasileiro, cientista do MIT Media Lab;
+
+3- Qual foi a primeira compra feita pela internet?
+Um CD de Sting em 11 de agosto de 1994
+
+4- Qual o site mais antigo em efetividade?
+NORDU.net, ativo desde janeiro de 1985
+
+Aula 2 
+
+Termos-chave(não usuais para mim)
+
+Keylogger 		- um vírus que capta tudo que o usuário digita em seu teclado
+Pishing			- Golpe com intenção de roubar dados enganando o usuário
+
+
+
+
+
+
+
+
+
+

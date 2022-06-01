@@ -1,0 +1,15 @@
+O que são redes:
+Conexão de servidor e cliente
+Backbone(Espinha dorsal) - Existem poucas delas pelo mundo, gerenciam os tráfegos de internet
+
+
+Provedor de serviço:				Caminho inverso:
+Dial-up: Internet discada			WWW
+ADSL: Banda larga				DNS - Domain name System
+Fibra Ótica					IP - Internet Protocol
+Rádio						Classes de redes
+Satélite					127.0.0.1 - Local Host
+Móvel
+P2P
+
+
