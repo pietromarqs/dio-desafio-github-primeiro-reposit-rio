@@ -1,0 +1,22 @@
+Estruturas usadas para dar semantica ao codigo
+<section>				<aside>
+<header>				<footer>
+<article>				<h1>-<h6>
+
+Todos esses foram substitutos do <div>
+
+
+<p>Estrutra usada para colocar textos mais densos, imagens, vídeos, etc no código</p>
+
+<a> é uma ancora, ele cria uma hiperligação nas páginas web, pode se utilizar <a href> ou <a target>
+
+Listas
+<ul>(ordem dos items não importa)
+item 1
+item 2
+
+<ol> (ordem dos items importa)
+1. item 1
+2. item 3
+
+<li> item da lista
